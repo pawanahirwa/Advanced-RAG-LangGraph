@@ -1,0 +1,6 @@
+langgraph
+qdrant-client
+sentence-transformers
+pypdf
+gradio
+ollama
