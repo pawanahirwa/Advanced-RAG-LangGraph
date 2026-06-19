@@ -101,4 +101,4 @@ All settings are at the top of `rag_langgraph.py`:
 
 ## 📄 License
 
-MIT
+Pawanahirwa
